@@ -1,0 +1,7 @@
+
+== Ebupt (China). print begin ==
+\h东信北邮信息有限公司
+东信北邮\w信息\o有限公司
+\w东信北邮信息有限公司
+
+=== Ebupt (China). print end ===
